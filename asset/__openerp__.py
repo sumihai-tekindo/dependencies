@@ -48,7 +48,7 @@ Support following feature:
         'stock_data.xml',
         'views/asset.xml',
     ],
-    'installable': True,
+    'installable': False,
     'application': True,
 }
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
