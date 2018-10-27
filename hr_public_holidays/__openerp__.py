@@ -12,7 +12,7 @@
     'summary': "Manage Public Holidays",
     'website': 'http://miketelahun.wordpress.com',
     'depends': [
-        'hr', 'resource',
+        'hr',
     ],
     'data': [
         'security/ir.model.access.csv',
